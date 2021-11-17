@@ -1,5 +1,4 @@
 import streamlit as st
-import cv2
 from webcam import webcam
 from fer import FER
 import matplotlib.pyplot as plt
